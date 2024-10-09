@@ -4,7 +4,7 @@ This tool was made as a proof of concept by Deltrix for the BinFbs.
 
 # **Binary Femboys Harmony Patcher**
 
-This tool is a proof of concept for a c# string patcher using the [Harmony Library](https://github.com/pardeike/Harmony/tree/master). It can swap strings such as authentication information.
+This tool is a proof of concept of a c# string patcher using the [Harmony Library](https://github.com/pardeike/Harmony/tree/master). It can swap strings such as authentication information.
 
 ## **Requirements**
 
