@@ -1,0 +1,9 @@
+C:\Users\deltrix\Desktop\cracking tools\keyauth-bypass\gelion-hook-.NET public\KeyAuthPatcher\bin\Release\Patcher.exe.config
+C:\Users\deltrix\Desktop\cracking tools\keyauth-bypass\gelion-hook-.NET public\KeyAuthPatcher\bin\Release\Patcher.exe
+C:\Users\deltrix\Desktop\cracking tools\keyauth-bypass\gelion-hook-.NET public\KeyAuthPatcher\bin\Release\Patcher.pdb
+C:\Users\deltrix\Desktop\cracking tools\keyauth-bypass\gelion-hook-.NET public\KeyAuthPatcher\bin\Release\0Harmony.dll
+C:\Users\deltrix\Desktop\cracking tools\keyauth-bypass\gelion-hook-.NET public\KeyAuthPatcher\obj\Release\Patcher.csproj.AssemblyReference.cache
+C:\Users\deltrix\Desktop\cracking tools\keyauth-bypass\gelion-hook-.NET public\KeyAuthPatcher\obj\Release\Patcher.csproj.CoreCompileInputs.cache
+C:\Users\deltrix\Desktop\cracking tools\keyauth-bypass\gelion-hook-.NET public\KeyAuthPatcher\obj\Release\Patcher.csproj.Up2Date
+C:\Users\deltrix\Desktop\cracking tools\keyauth-bypass\gelion-hook-.NET public\KeyAuthPatcher\obj\Release\Patcher.exe
+C:\Users\deltrix\Desktop\cracking tools\keyauth-bypass\gelion-hook-.NET public\KeyAuthPatcher\obj\Release\Patcher.pdb
