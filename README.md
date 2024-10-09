@@ -14,11 +14,13 @@ This tool is a proof of concept for a c# string patcher using the [Harmony Libra
 
 ## **How to Use**
 
-1. **Edit the Code:** Edit the strings with your own authentication informations.
+1. **Set Up:** Verify that the assembly you want to patch is actually made in .NET.
 
-2. **Compile the Code:** Compile it in the right version for it to work with your assembly.
+2. **Edit the Code:** Edit the strings with your own authentication informations.
 
-3. **Use the Tool:** Drag and drop the assembly you want to patch in the compiled executable.
+3. **Compile the Code:** Compile it in the right version for it to work with your assembly.
+
+4. **Use the Tool:** Drag and drop the assembly you want to patch in the compiled executable.
 
 ## **DMCA VIOLATIONS**
 
