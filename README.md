@@ -22,6 +22,10 @@ This tool is a proof of concept for a c# string patcher using the [Harmony Libra
 
 4. **Use the Tool:** Drag and drop the assembly you want to patch in the compiled executable.
 
+## **How to Prevent This**
+
+Obfuscate your program well, pack it into native/use AOT compilation and add anti-tamper measures.
+
 ## **DMCA VIOLATIONS**
 
 This project is a proof of concept made solely for demonstration purposes, any harm made using this tool is not our responsability, you agree to this when using it.
