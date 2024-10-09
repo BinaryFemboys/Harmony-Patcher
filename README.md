@@ -1,1 +1,31 @@
-# Harmony-Patcher
+# **Credits**
+
+This tool was made as a proof of concept by Deltrix for the BinFbs.
+
+# **Binary Femboys Harmony Patcher**
+
+This tool is a proof of concept for a c# string patcher using the [Harmony Library](https://github.com/pardeike/Harmony/tree/master). It can swap strings such as authentication information.
+
+## **Requirements**
+
+- Windows OS
+- .NET framework 4.8
+- Visual Studio
+
+## **How to Use**
+
+1. **Edit the Code:** Edit the strings with your own authentication informations.
+
+2. **Compile the Code:** Compile it in the right version for it to work with your assembly.
+
+3. **Use the Tool:** Drag and drop the assembly you want to patch in the compiled executable.
+
+## **DMCA VIOLATIONS**
+
+This project is a proof of concept made solely for demonstration purposes, any harm made using this tool is not our responsability, you agree to this when using it.
+
+## **License**
+
+Feel free to use and modify this tool as you like as long as you dont sell it or a different copy based on this source code.
+
+--- 
